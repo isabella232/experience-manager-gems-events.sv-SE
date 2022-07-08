@@ -7,9 +7,9 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: beb1535f026b59d77039a3395f0ebed01ea0c9b7
+source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,12 @@ Sessionsbeskrivning: Utforska de nya funktionerna som lanserades under det senas
 
 Innehållet gäller både Adobe Experience Manager as a Cloud Service och Experience Manager Managed Services, med fokus på Cloud Service. Det passar både tekniska och icke-tekniska deltagare. Tidigare exponering för Cloud Manager kan vara till hjälp för sammanhanget, men det är inte nödvändigt.
 
-## Inspelning av webbinarium
+**Inspelning av webbinarium**
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
 >* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](https://adobe.ly/3O0rdzd)
->* Om du inte går med i det här webbinariet kan du registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/) för att få meddelanden om kommande AEM GEM-webbinarier och AEM relaterade händelser.
+>* Om du vill få automatiska meddelanden om webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
 
