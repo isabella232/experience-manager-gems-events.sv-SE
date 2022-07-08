@@ -9,7 +9,7 @@ level: Beginner
 kt: 10470
 source-git-commit: beb1535f026b59d77039a3395f0ebed01ea0c9b7
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Innehållet gäller både Adobe Experience Manager as a Cloud Service och Experi
 
 ## Inspelning av webbinarium
 
-[!Vvideo](https://video.tv.adobe.com/v/343876)
+>[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
