@@ -7,9 +7,9 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 8a6bbf6fb09e9e9d8ce42c6474830792cadc3250
+source-git-commit: beb1535f026b59d77039a3395f0ebed01ea0c9b7
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,15 @@ ht-degree: 0%
 
 # En titt under huven - Cloud Manager 2022
 
-*Det här webbinariet ägde rum den 15-30 juni UTC. När det är tillgängligt publicerar vi inspelningen på [Sammanhangsberoende koppling](https://adobe.ly/3O0rdzd)*
+*Det här webbinariet ägde rum den 15-30 juni UTC. Se inspelningen nedan.*
 
 Sessionsbeskrivning: Utforska de nya funktionerna som lanserades under det senaste året, en uppdatering om utvecklingen bakom kulisserna och en inblick i resten av 2022. Information om hur Cloud Manager fungerar under huven och hur en kund kan utnyttja det på bästa sätt.  
 
 Innehållet gäller både Adobe Experience Manager as a Cloud Service och Experience Manager Managed Services, med fokus på Cloud Service. Det passar både tekniska och icke-tekniska deltagare. Tidigare exponering för Cloud Manager kan vara till hjälp för sammanhanget, men det är inte nödvändigt.
+
+## Inspelning av webbinarium
+
+[!Vvideo](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
