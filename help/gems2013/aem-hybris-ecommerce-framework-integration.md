@@ -1,36 +1,30 @@
 ---
-title: hybris/AEM 5.6 Integrering av e-handelns ramverk
-description: Läs om vår integrationslösning för hybris i AEM. Vi börjar med en översikt över hur anslutningsprogrammet integreras med e-handelsramverket och vilka allmänna arbetsflöden som finns när vi använder den här lösningen. Sedan går vi närmare in på hur kopplingen kan byggas ut och/eller anpassas efter projektspecifika behov.
+title: hybris/AEM 5.6 eCommerce framework integration
+description: Learn about our integration solution for hybris into AEM. We begin with an overview of how the connector integrates with the eCommerce framework and what the general workflows are when using this solution. Then, we go into more depth talking about how the connector can be extended and / or customized in order to adapt to project-specific needs.
 uuid: d09192f9-c9a3-43db-8538-d581838e1e27
 discoiquuid: 7fc5a2ec-df8c-44c1-95d0-050d77f82349
 targetaudience: target-audience advanced
 exl-id: 5f483b84-db10-42a7-9d3f-e50d21468825
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 0%
-
 ---
+# hybris/AEM 5.6 eCommerce framework integration{#hybris-aem-ecommerce-framework-integration}
 
-# hybris/AEM 5.6 Integrering av e-handelns ramverk{#hybris-aem-ecommerce-framework-integration}
-
-Under det här seminariet presenterar vi vår integrationslösning för hybris i AEM. Vi börjar med en översikt över hur anslutningsprogrammet integreras med e-handelsramverket och vilka allmänna arbetsflöden som finns när vi använder den här lösningen. Sedan går vi närmare in på hur kopplingen kan byggas ut och/eller anpassas efter projektspecifika behov.
+In this session, we present our integration solution for hybris into AEM. We begin with an overview of how the connector integrates with the eCommerce framework and what the general workflows are when using this solution. Then, we go into more depth talking about how the connector can be extended and / or customized in order to adapt to project-specific needs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19578/?quality=9)
 
-*Levererat 13 maj 2013*
+*Delivered May 13, 2013*
 
-**Presenteras av:**
+**Presented by:**
 
-Felix Oghina, produktutvecklare för Adobe
+Felix Oghina, Adobe Product Developer
 
-**Presentatörsbilder**
+**Presenter slides**
 
-[Hämta fil](assets/hybris-aem-5-6-ecommerce-framework-integration.pdf)
+[Get File](assets/hybris-aem-5-6-ecommerce-framework-integration.pdf)
 
-## Relaterade länkar {#related-links}
+## Related links {#related-links}
 
-[Dokumentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/ecommerce/eCommerce-framework.html#Deploying%20eCommerce%20with%20hybris)
+[Documentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/ecommerce/eCommerce-framework.html#Deploying%20eCommerce%20with%20hybris)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

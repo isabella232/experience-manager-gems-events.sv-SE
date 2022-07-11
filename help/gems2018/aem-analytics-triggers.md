@@ -1,33 +1,27 @@
 ---
 title: Adobe Developer (IO) events - Analytics Triggers
-description: Kombinera kraften i händelsestyrd arkitektur och mönsterigenkänning av kundbeteenden i realtid - den här sessionen behandlar hur ni kan utnyttja kraften i Analytics Triggers via Adobe Developer (Adobe I/O) Events för att reagera på kundbeteenden och målinrikta om i nära realtid.
+description: Combine the power of event-driven architecture and real-time customer behavior pattern recognition - this session discusses how you can harness the power of Analytics Triggers through Adobe Developer (Adobe I/O) Events to react to customer behavior and to re-target in near real-time.
 uuid: 69df8fcb-4713-42a9-a986-a4ad9d4e36c6
 topic-tags: analytics
 discoiquuid: 0982386a-a34c-4401-a6d5-7aeabe7eb50c
 targetaudience: target-audience advanced
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 0%
-
 ---
-
 
 # Adobe Developer (IO) events - Analytics Triggers{#adobe-i-o-events-analytics-triggers}
 
-Kombinera kraften i händelsestyrd arkitektur och mönsterigenkänning av kundbeteenden i realtid - den här sessionen kommer att handla om hur ni kan utnyttja kraften i Analytics Triggers via Adobe I/O Events för att reagera på kundbeteenden och målinrikta om i nära realtid.
+Combine the power of event-driven architecture and real-time customer behavior pattern recognition — this session will discuss how you can harness the power of Analytics Triggers through Adobe I/O Events to react to customer behavior and to re-target in near real-time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22809/?quality=9)
 
-*Levererad 27 juni 2018*
+*Delivered June 27, 2018*
 
-**Presenteras av:**
+**Presented by:**
 
 Sarah Xu, Developer Evangelist, Adobe
 
-**Presentatörsbilder**
+**Presenter slides**
 
-[Hämta fil](assets/gems+6+27+18+adobe+io+analytics+triggers.pdf)
+[Get File](assets/gems+6+27+18+adobe+io+analytics+triggers.pdf)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -35,9 +29,8 @@ Sarah Xu, Developer Evangelist, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Solera som ett ekindexvärde för AEM](solr-as-an-oak-index-for-aem.md)
->* [Låsa upp mer kraftfull tillgångsanalys med AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
-
+>* [Solr as an Oak index for AEM](solr-as-an-oak-index-for-aem.md)
+>* [Unlocking More Powerful Asset Analytics With AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 
 -->

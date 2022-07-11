@@ -1,32 +1,26 @@
 ---
-title: Bevara öppen källkod och bibehåll din lugn
-description: Att underhålla öppen källkod-projekt kan vara svårt. Framgångsrika öppen källkodsprojekt kan ta lång tid och ofta får du dåligt samvete eftersom du inte spenderar tillräckligt med tid på att arbeta med det. Lär dig ett antal saker som kan hjälpa dig att ligga steget före i projektet utan att behöva ge dig dåligt samvete.
+title: Maintaining Open Source while maintaining your sanity
+description: Maintaining open source projects can be hard. Successful open source projects can take up a lot of your time and often you end up feeling guilty because you feel you are not spending enough time working on it. Learn a number of things that can help you stay on top of your project without the guilty feelings.
 uuid: 94e91950-d915-4659-985a-f496e47e8963
 discoiquuid: f52fef4b-b8ba-45f6-897c-814a7367994e
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
-
 ---
 
+# Maintaining Open Source While Maintaining Your Sanity{#maintaining-open-source-while-maintaining-your-sanity}
 
-# Bevara öppen källkod samtidigt som du bibehåller din smak{#maintaining-open-source-while-maintaining-your-sanity}
-
-Att underhålla öppen källkod-projekt kan vara svårt. Framgångsrika öppen källkodsprojekt kan ta lång tid och ofta får du dåligt samvete eftersom du inte spenderar tillräckligt med tid på att arbeta med det. Du är inte ensam! Jag har varit en öppen källkodsdeltagare under en mycket lång tid och huvudansvarig för Apache Cordova i över 8 år. Jag har lärt mig ett antal saker som kan hjälpa dig att ligga steget före utan att du behöver ge upp.
+Maintaining open source projects can be hard. Successful open source projects can take up a lot of your time and often you end up feeling guilty because you feel you are not spending enough time working on it. You are not alone! I’ve been an open source contributor for a very long time and a core maintainer of Apache Cordova for over 8 years. I’ve learned a number of things that can help you stay on top of your project without the guilty feelings.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23713/?quality=9)
 
-*Levererat 2018-09-12*
+*Delivered 09/12/2018*
 
-**Presenteras av:**
+**Presented by:**
 
 Simon Mac Donald, Developer Advocate, Adobe
 
-Datum: 09/12/2018
+Date: 09/12/2018
 
-[Hämta fil](assets/maintaining-open-source-while-maintaining-your-sanity-gems-091218.pdf)
+[Get File](assets/maintaining-open-source-while-maintaining-your-sanity-gems-091218.pdf)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

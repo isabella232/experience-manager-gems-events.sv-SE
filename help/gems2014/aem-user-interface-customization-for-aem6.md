@@ -1,37 +1,31 @@
 ---
-title: Anpassning av användargränssnitt för AEM 6
-description: Lär dig hur du utökar användargränssnittet i AEM 6.0. Med den nya resurskoncentrationen är det möjligt att ändra alla administrationskonsoler via en övertäckning för att ändra, ta bort eller lägga till noder eller egenskaper.
+title: User interface customization for AEM 6
+description: Learn how to extend the AEM 6.0 user interface. With the new resource merger it is possible to modify every admin console through an overlay to change, delete or add any node or property.
 uuid: 2937bc6f-9ae8-4acf-a965-a16ef6e56a16
 discoiquuid: b1c4e69a-bc0e-445c-8e3e-c03ead18e76e
 targetaudience: target-audience advanced
 exl-id: 399b1360-c0d5-4375-b764-96f947bd6945
-source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
-workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 0%
-
 ---
+# User interface customization for AEM 6{#user-interface-customization-for-aem}
 
-# Anpassning av användargränssnitt för AEM 6{#user-interface-customization-for-aem}
-
-Sessionen visar hur du kan utöka AEM 6.0 användargränssnitt. Med den nya resurskoncentrationen är det möjligt att ändra alla administrationskonsoler via en övertäckning för att ändra, ta bort eller lägga till noder eller egenskaper. I kombination med det nya språket på klientsidan öppnar det nya sätt att anpassa produkten på. Dessutom har AEM ett stort antal tilläggspunkter i den nya sidredigeringen som kan knytas till anpassade implementeringar i den lageruppbyggda arkitekturen.
+The session walks you through ways how to extend AEM 6.0’s user interface. With the new resource merger it is possible to modify every admin console through an overlay to change, delete or add any node or property. In combination with the new client side foundation vocabulary It opens up new ways of customization of the product. Furthermore AEM provides a broad range of extension points in the new page authoring, to hook in custom implementations in the layered architecture.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19519/?quality=9)
 
-*Levererad 7 maj 2014*
+*Delivered May 7, 2014*
 
-**Presenteras av:**
+**Presented by:**
 
-* Gilles Knobloch, Engineering Manager, Adobe
+* Gilles Knobloch, Engineering Manager, Adobe  
 * Damien Antipa, Senior UX Engineer, Adobe
 
-**Presentatörsbilder**
+**Presenter slides**
 
-[Hämta fil](assets/user-interface-customization-for-aem6.pdf)
+[Get File](assets/user-interface-customization-for-aem6.pdf)
 
-## Relaterade länkar {#related-links}
+## Related links {#related-links}
 
-* [Peka på gränssnittskoncept](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
-* [Struktur](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
-* [Anpassa konsolerna (pekoptimerat användargränssnitt)](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
-* [Anpassa sidredigering (pekoptimerat gränssnitt)](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)
+* [Touch UI Concepts](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [Structure](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
+* [Customizing the Consoles (Touch-optimized UI)](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
+* [Customizing Page Authoring (Touch-optimized UI)](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

@@ -1,46 +1,40 @@
 ---
-title: 'SPA Editor SDK Deep Dive - Part 1 - React '
-description: Vi kan fördjupa oss i utvecklingen av Single-Page-Applications som kan redigeras med AEM Page Editor.
+title: SPA Editor SDK Deep Dive - Part 1 - React 
+description: Deep dive with us into the development of Single-Page-Applications that can be authored using the AEM Page Editor.
 uuid: 535ebce7-bbd9-4e84-a7a8-52254d01550e
 discoiquuid: 4aac1fad-0b99-461b-8f09-6d775de5bbec
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
-
 ---
-
 
 # SPA Editor SDK Deep Dive - Part 1 - React {#spa-editor-sdk-deep-dive-part-react}
 
-Vi kan fördjupa oss i utvecklingen av Single-Page-Applications som kan redigeras med AEM Page Editor. Under den här sessionen får du tillgång till följande innehåll:
+Deep dive with us into the development of Single-Page-Applications that can be authored using the AEM Page Editor. In this session, you will have access to the following content:
 
-* Överväganden och rekommendationer om projektstrukturen
-* Granskning av alla lager som utgör ett projekts arkitektur
-* Insikt i AEM och SPA roll
-* Struktur och viktiga JSON-fält för modellobjektet
-* Användbara kodfragment
-* Demo av komponenterna från SDK
-* Viktiga implementeringsdetaljer
+* Considerations and recommendations about the structure of projects
+* Review of all the layers that compose the architecture of a project
+* Insight into the role of AEM and SPA components
+* Structure and key JSON fields of the model object
+* Useful code snippets
+* Tour of the components provided by the SDK
+* Key implementation details
 
 >[!VIDEO](https://video.tv.adobe.com/v/25194/?quality=9)
 
-*Levererat 2018-10-31*
+*Delivered 10/31/18*
 
-Presenteras av: Patrick Fauchere, Engineering Manager, Adobe
+Presented by: Patrick Fauchere, Engineering Manager, Adobe
 
-**Presentatörsbilder**
+**Presenter slides**
 
-[Hämta fil](assets/aem-gems-spa-editordeepdive-react-10312018.pdf)
+[Get File](assets/aem-gems-spa-editordeepdive-react-10312018.pdf)
 
-## Relaterade länkar {#related-links}
+## Related links {#related-links}
 
-[Självstudiekurs om helger](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[Weekend Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
-[Dokumentation](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[Documentation](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
-[Exempel - vår detaljhandelsjournal](https://github.com/adobe/aem-sample-we-retail-journal)
+[Sample - We retail journal](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

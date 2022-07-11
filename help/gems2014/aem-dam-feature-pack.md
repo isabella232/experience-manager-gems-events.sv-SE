@@ -1,32 +1,26 @@
 ---
-title: Så här får du ut mesta möjliga av ditt DAM-funktionspaket
-description: Läs mer om DAM FP2 för AEM 5.6.1. Det här funktionspaketet fokuserar på att utnyttja funktionerna i Creative Projects för att erbjuda ett unikt sätt att hantera materialanskaffning. Sessionen täcker steg-för-steg-arbetet i ett kreativt arbetsflöde för att skapa, redigera och överföra en tagningslista samt överföra resurser till tagningslistan. Det handlar också om att granska och godkänna överförda resurser. Du får också lära dig hur det går att konfigurera arbetsytan i Task, skapa mallar för anpassade projektarbetsflöden och skapa en produkthierarki.
+title: How to get the most out of your DAM feature pack
+description: Learn about the DAM FP2 for AEM 5.6.1. This feature pack focuses on leveraging the Creative Projects functionality to offer you a unique way of managing assets sourcing. The session covers the step-by-step working of a creative project workflow for creating, editing, and uploading a shot list, and uploading assets against the shot list. It also covers reviewing and approving the uploaded assets You also learn the ability of Task surface configuration, Custom Project workflow templates, and product hierarchy creation.
 uuid: 027cce69-9bd8-46f7-b581-85169c261baa
 discoiquuid: b5983511-3a13-4b31-aa22-738b85709b79
 targetaudience: target-audience advanced
 exl-id: 6290c4f2-44c3-4407-93b3-60e37a21a026
-source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
-workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 0%
-
 ---
+# How to get the most out of your DAM Feature Pack{#how-to-get-the-most-out-of-your-dam-feature-pack}
 
-# Så här får du ut mesta möjliga av ditt DAM-funktionspaket{#how-to-get-the-most-out-of-your-dam-feature-pack}
+The DAM FP2 for AEM 5.6.1 is focused on leveraging the Creative Projects functionality to offer the AEM users a unique way of managing their assets sourcing. The session will cover the step-by-step working of a creative project workflow for:
 
-DAM FP2 för AEM 5.6.1 fokuserar på att utnyttja funktionerna i Creative Projects för att erbjuda AEM användare ett unikt sätt att hantera sina resurser. Sessionen kommer att omfatta stegvis arbete i ett kreativt projektarbetsflöde för:
+* Creating/Editing/Uploading a shot list
+* Uploading assets against the shot list
+* Reviewing and Approving the uploaded assets 
 
-* Skapa/redigera/överföra en tagningslista
-* Överför resurser mot scenlistan
-* Granska och godkänna de överförda resurserna
-
-Sessionen visar även möjligheten att konfigurera uppgiftsytan, mallar för anpassade projektarbetsflöden och skapa produkthierarki.
+The session will also demonstrate the ability of Task surface configuration, Custom Project workflow templates, Product hierarchy creation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19523/?quality=9)
 
-*5 mars 2014*
+*Delivered March 5, 2014*
 
-**Presenteras av:**
+**Presented by:**
 
 Varun Nagpal, Computer Scientist, Adobe
 

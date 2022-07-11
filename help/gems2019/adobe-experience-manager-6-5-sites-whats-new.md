@@ -1,30 +1,24 @@
 ---
-title: Adobe Experience Manager 6.5 Sites - What's new
-description: Få en översikt över de viktigaste plattformsändringarna, vad AEM har att erbjuda runt Headless CMS och Modern Web samt de funktioner som gör implementeringarna effektivare och smidigare.
+title: Adobe Experience Manager 6.5 Sites - what's new
+description: Get an overview of the main platform changes, what AEM has to offer around Headless CMS and Modern Web, and the features that make your implementations more efficient and lean.
 uuid: e59a3675-33eb-418c-8e8a-e4f9ffff1b10
 discoiquuid: d8fb6e18-cc71-48d0-ac68-86381603f93c
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 0%
-
 ---
 
+# Adobe Experience Manager 6.5 Sites - what's new{#adobe-experience-manager-sites-what-s-new}
 
-# Adobe Experience Manager 6.5 Sites - What&#39;s new{#adobe-experience-manager-sites-what-s-new}
-
-Få en översikt över de viktigaste plattformsändringarna, vad AEM har att erbjuda runt Headless CMS och Modern Web samt de funktioner som gör implementeringarna effektivare och smidigare.
+Get an overview of the main platform changes, what AEM has to offer around Headless CMS and Modern Web, and the features that make your implementations more efficient and lean.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26368/?quality=9)
 
-*Levererat 2019-03-06*
+*Delivered 03/06/19*
 
-**Presenteras av:**
+**Presented by:**
 
 * Cedric Huesler, Director Product Management, Adobe
 * Gabriel Walt, Product Manager, Adobe
 
-**Presentatörsbilder**
+**Presenter slides**
 
-[Hämta fil](assets/aem65-whatsnewgem-march6.pdf)
+[Get File](assets/aem65-whatsnewgem-march6.pdf)

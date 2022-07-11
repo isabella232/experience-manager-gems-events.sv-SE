@@ -1,39 +1,33 @@
 ---
-title: AEM flytande upplevelser för headless-användning
-description: Lär dig mer om flytande upplevelser och hur de används för att hantera innehåll och upplevelser för både headful och headless CMS-scenarier. Läs om de viktigaste AEM 6.3-funktionerna som möjliggör användning av kanalagnostikupplevelser med mera.
+title: AEM Fluid Experiences for headless usecases
+description: Learn about fluid experiences and its application in managing content and experiences for either headful or headless CMS scenarios. Learn about key AEM 6.3 latest capabilities that enable channel agnostic experience management use-cases, and more.
 uuid: b7ee2de4-385a-486f-80e4-741e3965ed28
 discoiquuid: 0a81aa6a-94f6-4e38-98fb-c48809899a24
 targetaudience: target-audience advanced
 exl-id: eb132b24-3ab3-4281-8dc8-d47add632106
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 0%
-
 ---
+# AEM Fluid Experiences for headless usecases{#aem-fluid-experiences-for-headless-usecases}
 
-# AEM flytande upplevelser för headless-användning{#aem-fluid-experiences-for-headless-usecases}
+In this session we will cover Adobe Experience Manager fluid experiences and its application in managing content and experiences for either headful or headless CMS scenarios. Learn about key AEM 6.3 latest capabilities that enable channel agnostic experience management use-cases. Hear how fellow customers are using Experience Fragments and Content Services to reuse web content across mobile app, single page applications, and custom applications. Join us to learn the implementation details, demo and applications for content syndication. Learn the how-to create once and deliver across channels. 
 
-Under den här sessionen kommer vi att ta upp Adobe Experience Manager flytande upplevelser och dess tillämpning när det gäller att hantera innehåll och upplevelser för både headful och headless CMS-scenarier. Lär dig mer om de viktigaste AEM 6.3-funktionerna som möjliggör användning av kanalagnostikupplevelser i olika fall. Hör hur andra kunder använder Experience Fragments och Content Services för att återanvända webbinnehåll i mobilappar, appar för en sida och anpassade appar. Följ med oss för att få veta mer om implementering, demo och applikationer för innehållssyndikering. Lär dig hur du skapar en gång och levererar i alla kanaler.
+Key Takeaways: 
 
-Viktiga åtgärder:
-
-* Förstå de nya resurser som är tillgängliga för användning i CMS-konversationer över flera kanaler
-* Leverera Adobe ur synvinkel och lösning med flytande upplevelser
-* Ny demo och guider för kundkonversationer
+* Understand the new resources available for use when in omnichannel CMS conversations
+* Be able to deliver Adobe's point of view and solution with Fluid Experiences
+* New demo and how-tos available for your customer conversations 
 
 >[!VIDEO](https://video.tv.adobe.com/v/20495/?quality=9)
 
-*Levererat 18 oktober 2017*
+*Delivered October 18, 2017*
 
-**Presenteras av:**
+**Presented by:**
 
 * Haresh Kumar, Director of Strategy and Product Marketing AEM, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe
 
-**Presentatörsbilder**
+**Presenter slides**
 
-[Hämta fil](assets/gems-fluid-experiencesoct1617.pdf)
+[Get File](assets/gems-fluid-experiencesoct1617.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

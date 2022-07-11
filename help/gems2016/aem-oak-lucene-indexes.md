@@ -1,39 +1,33 @@
 ---
-title: Oak Lucene-index
-description: Vi beskriver funktionerna i Oak Lucene-index och hur de kan användas för att få dina frågor att fungera bättre. I den andra delen kommer vi att tala om hur asynkron indexering fungerar i allmänhet och hur den kan övervakas.
+title: Oak Lucene Indexes
+description: We describe the features of Oak Lucene indexes and how they can be used to get your queries perform better. In the second part we will talk about how asynchronous indexing works in general and how it can be monitored.
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
 exl-id: 5eaed3e2-9bb5-400e-950e-8a6161590acc
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 0%
-
 ---
+# Oak Lucene Indexes{#oak-lucene-indexes}
 
-# Oak Lucene-index{#oak-lucene-indexes}
-
-Vi beskriver funktionerna i Oak Lucene-index och hur de kan användas för att få dina frågor att fungera bättre. I den andra delen kommer vi att tala om hur asynkron indexering fungerar i allmänhet och hur den kan övervakas.
+We describe the features of Oak Lucene indexes and how they can be used to get your queries perform better. In the second part we will talk about how asynchronous indexing works in general and how it can be monitored.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19303/?quality=9)
 
-*Levererad 20 januari 2016*
+*Delivered January 20, 2016*
 
-**Presenteras av:**
+**Presented by:**
 
 * Chetan Mehrotra, Senior Computer Scientist, Adobe
 * Alex Parvulescu, Senior Developer, Adobe
 
-**Presentatörsbilder**
+**Presenter slides**
 
-[Hämta fil](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
+[Get File](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
 
-**Sessionsfrågor och svar**
+**Session Questions and Answers**
 
-[Hämta fil](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
+[Get File](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
 
-## Relaterade länkar {#related-links}
+## Related links {#related-links}
 
-* [Fråga och indexering](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
-* [Oak Documentation: Lucene-index](https://jackrabbit.apache.org/oak/docs/query/lucene.html)
+* [Oak Queries and Indexing](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
+* [Oak Documentation: Lucene Index](https://jackrabbit.apache.org/oak/docs/query/lucene.html)

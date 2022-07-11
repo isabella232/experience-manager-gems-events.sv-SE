@@ -1,29 +1,23 @@
 ---
-title: Utnyttja möjligheten att publicera för AEM Screens
-description: Få en komplett produktionskonfiguration för AEM Screens och lär dig alla nödvändiga steg för att publicera innehåll på skärmar/spelare för digitala signaturer.
+title: Leveraging author-publish for AEM Screens
+description: Get a full production setup for AEM Screens and learn all necessary steps for publishing content onto Screens / Digital Signage player.
 uuid: 45a68d1d-824e-4922-b440-dd53131d2bdc
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 0%
-
 ---
 
+# Leveraging author-publish for AEM Screens{#leveraging-author-publish-for-aem-screens}
 
-# Utnyttja möjligheten att publicera för AEM Screens{#leveraging-author-publish-for-aem-screens}
+In this Gems session we will do a full production setup for AEM Screens and explain all necessary steps for publishing content onto Screens / Digital Signage player. Learn how to leverage author-publish topology for AEM Screens. Preview the steps an author has to do to publish content updates and distribute them to the devices. Further, we will have a closer look on the architecture behind this flow. In addition, you will find out about the configuration needed for the publish cluster, replication and devices.
 
-Under Gems-sessionen kommer vi att göra en fullständig produktionskonfiguration för AEM Screens och förklara alla nödvändiga steg för publicering av innehåll på skärmar/spelare för digital signering. Lär dig utnyttja redigerings- och publiceringstopologin för AEM Screens. Förhandsgranska stegen en författare måste göra för att publicera innehållsuppdateringar och distribuera dem till enheterna. Dessutom kommer vi att ha en närmare titt på arkitekturen bakom detta flöde. Dessutom får du reda på vilken konfiguration som krävs för publiceringskluster, replikering och enheter.
-
-**Presenteras av:**
+**Presented by:**
 
 Iulia Grumaz, Computer Scientist, Software Development, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/28706/?quality=9)
 
-*Levererat 4 september 2019*
+*Delivered September 4, 2019*
 
 Presentation
 
-[Hämta fil](assets/leveraging-author-publish-aem-screens-final.pdf)
+[Get File](assets/leveraging-author-publish-aem-screens-final.pdf)

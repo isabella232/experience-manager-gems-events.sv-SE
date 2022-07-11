@@ -1,35 +1,29 @@
 ---
 title: Introducing the AEM Modernization Suite
-description: Lär dig hur du konverterar statiska mallsidor till redigerbara mallar. Lär dig hur du konverterar anpassade eller äldre komponenter till kärnkomponentutkast och mycket mer.
+description: Learn how to convert static template pages to editable templates. Learn how to convert custom or legacy components to Core Component Proxies, and more.
 uuid: f1b17a0f-055f-48f4-a0be-e50318b3349d
 discoiquuid: 2bb43197-11dc-4e96-a4ec-326fef150845
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 0%
-
 ---
-
 
 # Introducing the AEM Modernization Suite{#introducing-the-aem-modernization-suite}
 
-Vissa kunder förlitar sig fortfarande på det klassiska användargränssnittet för sin AEM Sites-redigering. I och med att det här gränssnittet har tagits bort föreslogs ett Summit-labb för att hjälpa våra kunder att uppdatera sina implementeringar till de senaste funktionerna. Bryan Stopp och Gilles Knobloch skapade AEM Modernization Tool Suite för att stödja Lab och förse våra kunder med de medel de behöver.  Läs om det nya verktygets funktioner för att:
+Some Customers still rely on the Classic UI for their AEM Sites authoring experience. With the deprecation of this interface, a Summit lab was proposed to help our customers update their implementations to the newest capabilities. To support the Lab and provide our customers with the necessary means, Bryan Stopp and Gilles Knobloch created the AEM Modernization Tool Suite.  Come learn about this new tool’s capabilities to: 
 
-* Konvertera statiska mallsidor till redigerbara mallar
-* Konvertera anpassade/äldre komponenter till kärnkomponentproxy (eller andra anpassade komponenter)
-* Importera och konvertera komponentdesigner som redigerbara mallprofiler
-* Och (naturligtvis) Uppdatera klassiska/korala2-dialogrutor till dialogrutorna i koral 3
+* Convert Static Template Pages to Editable Templates
+* Convert Custom/Legacy components to Core Component Proxies (or other custom Components)
+* Import and Convert Component Designs as Editable Template Policies
+* And (of course) Update Classic/Coral2 Dialogs to Coral 3 Dialogs  
 
 >[!VIDEO](https://video.tv.adobe.com/v/27322?quality=9)
 
-*Levererat 2008-05-19*
+*Delivered 05/08/19*
 
-**Presenteras av:**
+**Presented by:**
 
 * Bryan Stopp, AEM Technical Architect, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe
 
-**Presentatörsbilder**
+**Presenter slides**
 
-[Hämta fil](assets/modernization-toolsaemgems.pdf)
+[Get File](assets/modernization-toolsaemgems.pdf)

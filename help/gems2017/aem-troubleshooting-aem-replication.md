@@ -1,43 +1,36 @@
 ---
-title: Felsökning AEM replikering
-description: Replikering är en central funktion i AEM eftersom det gör det möjligt att publicera redigerat innehåll för publiceringsinstanser. Under den här sessionen ska vi analysera hur du felsöker och reagerar på de vanligaste replikeringsproblemen.
+title: Troubleshooting AEM Replication
+description: Replication is a central feature in AEM as it allows publishing authored content to publish instances. In this session we'll analyze how to troubleshoot and react to the most common issues in replication.
 uuid: 4e4a3dc8-eb1c-4c28-a7c1-1c8c2e084e7b
 content-type: troubleshooting
 topic-tags: troubleshoot
 discoiquuid: 563fbea0-fad3-45da-8d38-5ee736bd3588
 targetaudience: target-audience new;target-audience ongoing
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 0%
-
 ---
 
+# Troubleshooting AEM Replication{#troubleshooting-aem-replication}
 
-# Felsökning AEM replikering{#troubleshooting-aem-replication}
-
-Replikering är en central funktion i AEM eftersom det gör det möjligt att publicera redigerat innehåll för publiceringsinstanser. Under den här sessionen ska vi analysera hur du felsöker och reagerar på de vanligaste replikeringsproblemen.
+Replication is a central feature in AEM as it allows publishing authored content to publish instances. In this session we'll analyze how to troubleshoot and react to the most common issues in replication.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19282/?quality=9)
 
-*Levererat 26 juli 2017*
+*Delivered July 26, 2017*
 
 **Tommaso Teofili, Developer, Adobe**
 
-**Presentatörsbilder**
+**Presenter slides**
 
-[Hämta fil](assets/aem-gems-troubleshooting-aem-replication.pdf)
+[Get File](assets/aem-gems-troubleshooting-aem-replication.pdf)
 
-## Relaterade länkar {#related-links}
+## Related links {#related-links}
 
-* [AEM 6.3-replikering](https://docs.adobe.com/docs/en/aem/6-3/deploy/configuring/replication.html)
-* [AEM 6.2-replikering](https://docs.adobe.com/docs/en/aem/6-2/deploy/configuring/replication.html)
-* [AEM 6.1-replikering](https://docs.adobe.com/docs/en/aem/6-1/deploy/configuring/replication.html)
-* [AEM 6.0-replikering](https://docs.adobe.com/docs/en/aem/6-0/deploy/configuring/replication.html)
+* [AEM 6.3 Replication](https://docs.adobe.com/docs/en/aem/6-3/deploy/configuring/replication.html)
+* [AEM 6.2 Replication](https://docs.adobe.com/docs/en/aem/6-2/deploy/configuring/replication.html)
+* [AEM 6.1 Replication](https://docs.adobe.com/docs/en/aem/6-1/deploy/configuring/replication.html)
+* [AEM 6.0 Replication](https://docs.adobe.com/docs/en/aem/6-0/deploy/configuring/replication.html)
 
 >[!MORELIKETHIS]
 >
->* [AEM och JCR-fråga](aem-indexing-jcr-query.md)
->* [Felsökning AEM replikering](aem-troubleshooting-aem-replication.md)
->* [Adobe Experience Manager: Underhållsuppgifter för AEM 6.x](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
-
+>* [AEM Indexing and JCR Query](aem-indexing-jcr-query.md)
+>* [Troubleshooting AEM Replication](aem-troubleshooting-aem-replication.md)
+>* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)

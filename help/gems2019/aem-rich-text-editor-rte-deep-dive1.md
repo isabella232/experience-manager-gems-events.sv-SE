@@ -1,31 +1,25 @@
 ---
-title: AEM RTF-redigerare (Rich Text Editor) Djupdykning
-description: Lär dig de bästa sätten kring de omfattande konfigurationerna och användningen av RTE i AEM. Vi kommer att ta upp olika användningsfall, begränsningar, fallgropar, konfigurationsarbetsflöde och vanliga felsökningssteg när vi använder RTE i AEM. Vi kommer också att ta upp dess Command-Plugin-arkitektur och centrala koncept som HTML-regler, kernel och deserialisering.
+title: AEM Rich Text Editor (RTE) Deep Dive
+description: Learn the Best Practices around the rich configurations and use of RTE in AEM. We will cover the different use-cases, limitations, pitfalls, configuration workflow and common troubleshooting steps while using RTE in AEM. We will also touch upon its Command-Plugin Architecture and core concepts like Html Rules, Kernel and De-serialization.
 uuid: c55837d1-5703-44a9-b901-ab2e68d75dcb
 discoiquuid: d4220ddf-360a-4068-9558-b42f29038cc7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 0%
-
 ---
 
+# AEM Rich Text Editor (RTE) Deep Dive{#aem-rich-text-editor-rte-deep-dive}
 
-# AEM RTF-redigerare (Rich Text Editor) Djupdykning{#aem-rich-text-editor-rte-deep-dive}
+Learn the Best Practices around the rich configurations and use of RTE in AEM. We will cover the different use-cases, limitations, pitfalls, configuration workflow and common troubleshooting steps while using RTE in AEM. We will also touch upon its Command-Plugin Architecture and core concepts like Html Rules, Kernel and De-serialization.
 
-Lär dig de bästa sätten kring de omfattande konfigurationerna och användningen av RTE i AEM. Vi kommer att ta upp olika användningsfall, begränsningar, fallgropar, konfigurationsarbetsflöde och vanliga felsökningssteg när vi använder RTE i AEM. Vi kommer också att ta upp dess Command-Plugin-arkitektur och centrala koncept som HTML-regler, kernel och deserialisering.
-
-## AEM RTF-redigerare (Rich Text Editor) Djupdykning
+## AEM Rich Text Editor (RTE) Deep Dive
 
 >[!VIDEO](https://video.tv.adobe.com/v/27087/?quality=9)
 
-*Levererat 2019-04-17*
+*Delivered 04/17/19*
 
-**Presenteras av:**
+**Presented by:**
 
- Bansal, datavetenskap, Adobe
+Hanish Bansal, Computer Scientist, Adobe
 
-Presentatörsbilder, datum: 04/17/2019
+Presenter slides, Date: 04/17/2019
 
-[Hämta fil](assets/aem-gems-aem-rte-04172019.pdf)
+[Get File](assets/aem-gems-aem-rte-04172019.pdf)
