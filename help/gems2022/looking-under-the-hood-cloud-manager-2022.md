@@ -1,28 +1,34 @@
 ---
 title: Cloud Manager 2022
-description: This AEM GEMs webinar will include a presentation and demo on the following:Explore the new features released in the last year, an update on behind-the-scenes … (Descriptions should be between 60 and 160 characters)
+description: Det här AEM GEM-webbinariet innehåller en presentation och en demonstration om följande:Utforska de nya funktionerna som släpptes förra året, en uppdatering bakom kulisserna ... (Beskrivningarna ska vara mellan 60 och 160 tecken)
 version: Experience Manager
 feature: Cloud Manager
 topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
+source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
+workflow-type: tm+mt
+source-wordcount: '177'
+ht-degree: 0%
+
 ---
 
-# Looking under the hood - Cloud Manager 2022
 
-*This webinar has been conducted on June 15th - 3pm UTC. Please view the recording below.*
+# En titt under huven - Cloud Manager 2022
 
-Session description:
-Explore the new features released in the last year, an update on behind-the-scenes developments, and a look forward into the rest of 2022. Details about how Cloud Manager works under the hood and how a customer can make the best use of it.  
+*Det här webbinariet ägde rum den 15-30 juni UTC. Se inspelningen nedan.*
 
-The content applies to both Adobe Experience Manager as a Cloud Service and Experience Manager Managed Services, with a focus on Cloud Service. It’s suitable for technical and nontechnical attendees alike. Prior exposure to Cloud Manager can help for context, but it isn’t necessary.
+Sessionsbeskrivning: Utforska de nya funktionerna som lanserades under det senaste året, en uppdatering om utvecklingen bakom kulisserna och en inblick i resten av 2022. Information om hur Cloud Manager fungerar under huven och hur en kund kan utnyttja det på bästa sätt.  
 
-**Webinar Recording**
+Innehållet gäller både Adobe Experience Manager as a Cloud Service och Experience Manager Managed Services, med fokus på Cloud Service. Det passar både tekniska och icke-tekniska deltagare. Tidigare exponering för Cloud Manager kan vara till hjälp för sammanhanget, men det är inte nödvändigt.
+
+**Inspelning av webbinarium**
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
->* For session specific community interactions on Experience League, please visit this [Contextual Thread](https://adobe.ly/3O0rdzd)
->* To receive automatic notifications regarding webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).
+>* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](https://adobe.ly/3O0rdzd)
+>* Om du vill få automatiska meddelanden om webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
+

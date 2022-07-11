@@ -1,34 +1,40 @@
 ---
-title: Architecture of the AEM 5.6 platform
-description: Learn about the evolution of the architecture of the AEM application platform. Since the first release of Communiqué 1, until the most recent launch of AEM 5.6, the application underwent several changes to become the versatile and extensible application platform it is today.
+title: Arkitektur för AEM 5.6
+description: Läs om hur arkitekturen för den AEM programplattformen har utvecklats. Sedan den första releasen av Communiqué 1, fram till den senaste starten av AEM 5.6, har programmet genomgått flera ändringar som har blivit den mångsidiga och utbyggbara programplattform som är i dag.
 uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
 exl-id: 5e4c5722-671e-49c7-bb0c-530b387500e6
----
-# Architecture of the AEM 5.6 platform{#architecture-of-the-aem-platform}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '124'
+ht-degree: 0%
 
-Learn about the evolution of the architecture of the AEM Application Platform. Since the first release of Communiqué 1 until the most recent launch of AEM 5.6 the application underwent several massive changes to become the versatile and extensible application platform it is now.
+---
+
+# Arkitektur för AEM 5.6{#architecture-of-the-aem-platform}
+
+Läs om hur arkitekturen för AEM Application Platform utvecklas. Sedan den första releasen av Communiqué 1 fram till den senaste lanseringen av AEM 5.6 har programmet genomgått flera omfattande förändringar för att bli den mångsidiga och utbyggbara applikationsplattform som nu är aktuell.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
-*Delivered May 8, 2013*
+*Levererad 8 maj 2013*
 
-**Presented by:**
+**Presenteras av:**
 
 Felix Meschberger, Principal Scientist, Adobe
 
-**Presenter slides**
+**Presentatörsbilder**
 
-[Get File](assets/20130508-aem56-architecture.pdf)
+[Hämta fil](assets/20130508-aem56-architecture.pdf)
 
-**Session questions and answers**
+**Mötesfrågor och svar**
 
-[Get File](assets/questionsanswers-aem56-architecture.pdf)
+[Hämta fil](assets/questionsanswers-aem56-architecture.pdf)
 
-## Related links {#related-links}
+## Relaterade länkar {#related-links}
 
-[Documentation](https://docs.adobe.com/docs/en/cq/5-6-1/exploring/introduction.html?wcmmode=disabled)
+[Dokumentation](https://docs.adobe.com/docs/en/cq/5-6-1/exploring/introduction.html?wcmmode=disabled)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

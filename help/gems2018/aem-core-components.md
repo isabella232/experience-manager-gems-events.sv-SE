@@ -1,25 +1,31 @@
 ---
-title: AEM Core Components
-description: Learn everything about the Core Components and their related features, about how they work and how they are changing the game. Get to know the strategies that allow you to reduce the number of components you need to create and maintain by an order of magnitude.
+title: AEM kärnkomponenter
+description: Lär dig allt om kärnkomponenterna och deras relaterade funktioner, om hur de fungerar och hur de förändrar spelet. Lär dig mer om strategier som gör att du kan minska antalet komponenter du behöver skapa och underhålla i en storleksordning.
 uuid: 8bfd82ac-b61d-4ff2-9251-3664456e6b41
 discoiquuid: b7e90b65-d6e9-49f5-b43c-3c47cf6aeae8
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+source-git-commit: 811329e02cc9b2b961599d5751d4dcc6886eb3d7
+workflow-type: tm+mt
+source-wordcount: '123'
+ht-degree: 0%
+
 ---
 
-# AEM Core Components{#aem-core-components}
 
-Learn everything about the Core Components and their related features, about how they work and how they are changing the game. Get to know the strategies that allow you to reduce the number of components you need to create and maintain by an order of magnitude.
+# AEM kärnkomponenter{#aem-core-components}
+
+Lär dig allt om kärnkomponenterna och deras relaterade funktioner, om hur de fungerar och hur de förändrar spelet. Lär dig mer om strategier som gör att du kan minska antalet komponenter du behöver skapa och underhålla i en storleksordning.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25674/)
 
-*Delivered 12/5/18*
+*Levererat 2018-12-05*
 
-**Presented by:**
+**Presenteras av:**
 
 Gabriel Walt, Product Manager, Adobe
 
-[AEM Core Components Documentation](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[Dokumentation AEM kärnkomponenter](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
 
-AEM Gems - AEM Core Components - Date: 12/05/2018
+AEM Gems - AEM kärnkomponenter - Datum: 12/05/2018
 
-[Get File](assets/aem-gems-aem-sitescorecomponents-12052018.pdf)
+[Hämta fil](assets/aem-gems-aem-sitescorecomponents-12052018.pdf)

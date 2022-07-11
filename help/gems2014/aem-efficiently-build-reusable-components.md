@@ -1,34 +1,40 @@
 ---
-title: Efficiently build reusable components
-description: Learn why it is critical for your team's efficiency to enable the HTML web developers to be fully integrated to the AEM project, and how this can be made possible. Also learn about the new foundation components, which are built with server-side JavaScript and with HTL, and how to reuse and extend them.
+title: Skapa återanvändbara komponenter effektivt
+description: Se varför det är viktigt för teamets effektivitet att webbutvecklarna på HTML kan integreras i AEM projekt och hur detta kan göras möjligt. Lär dig även om de nya grundkomponenterna, som byggs med JavaScript på serversidan och med HTML, och hur du återanvänder och utökar dem.
 uuid: 445d4ead-8055-4624-a618-edd67ee3ec2d
 discoiquuid: 8c411732-3462-4ea1-9bca-e3e1cd6ac3f0
 targetaudience: target-audience advanced
 exl-id: ae46243b-4c58-4b7a-92a0-fb2900e02a8f
----
-# Efficiently build reusable components{#efficiently-build-reusable-components}
+source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
+workflow-type: tm+mt
+source-wordcount: '196'
+ht-degree: 0%
 
-With the Brackets and Eclipse IDE plugins, the HTL template language, and the new foundation components, Adobe Experience Manager 6.0 brings a new spin to your component development workflow. Learn why it is critical for your team's efficiency to enable the HTML web developers to be fully integrated to the AEM project, and how this can be made possible. Also learn about the new foundation components, which are built with server-side JavaScript and with HTL, and how to reuse and extend them. This is a follow up session of "Introduction to HTL", while we recommend attending both sessions there is no requirement to attend both.
+---
+
+# Skapa återanvändbara komponenter effektivt{#efficiently-build-reusable-components}
+
+Med Brackets- och Eclipse IDE-pluginerna, HTML-mallspråket och de nya grundkomponenterna ger Adobe Experience Manager 6.0 ett nytt spin i arbetsflödet för komponentutveckling. Se varför det är viktigt för teamets effektivitet att webbutvecklarna på HTML kan integreras i AEM projekt och hur detta kan göras möjligt. Lär dig även om de nya grundkomponenterna, som byggs med JavaScript på serversidan och med HTML, och hur du återanvänder och utökar dem. Det här är en uppföljningssession av&quot;Introduktion till HTML&quot;, medan vi rekommenderar att du deltar i båda sessionerna utan att behöva delta i båda.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19503/?quality=9)
 
-*Delivered July 2, 2014*
+*Levererat 2 juli 2014*
 
-**Presented by:**
+**Presenteras av:**
 
 Gabriel Walt, Product Manager, Adobe
 
-**Presenter slides**
+**Presentatörsbilder**
 
-[Get File](assets/efficiently-build-reusable-components.pdf)
+[Hämta fil](assets/efficiently-build-reusable-components.pdf)
 
-**Session Questions and Answers**
+**Sessionsfrågor och svar**
 
-[Get File](assets/efficiently-build-reusable-components-q-a.pdf)
+[Hämta fil](assets/efficiently-build-reusable-components-q-a.pdf)
 
-## Related links {#related-links}
+## Relaterade länkar {#related-links}
 
-[AEM HTL Brackets Extension](https://github.com/Adobe-Marketing-Cloud/aem-brackets-extension#AEM6#BeautifulMarkup)
+[Tillägget AEM HTML-parenteser](https://github.com/Adobe-Marketing-Cloud/aem-brackets-extension#AEM6#BeautifulMarkup)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

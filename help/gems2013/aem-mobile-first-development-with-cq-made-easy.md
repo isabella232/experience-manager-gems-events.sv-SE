@@ -1,23 +1,29 @@
 ---
-title: Mobile-first development with CQ made easy
-description: Learn the patterns for responsive design in CQ and how to provide a media-rich HTML5 mobile experience that performs on low-bandwidth connections. To demonstrate these patterns, we work through the transformation of a CQ site from desktop only to mobile-first. We dive into how mobile-first design principles were used, adaptive images and progressive enhancement to create it, and we discuss the pitfalls encountered along the way. The session is based on Bruce's talk during the CQ Conference in Basel, Switzerland (CQCON, 2013).
+title: Mobilutveckling först med CQ på ett enkelt sätt
+description: Lär dig mönstren för responsiv design i CQ och hur du får en multimedial mobilupplevelse i HTML5 som fungerar på anslutningar med låg bandbredd. För att demonstrera dessa mönster arbetar vi med att omvandla en CQ-webbplats från enbart dator till mobil först. Vi tittar närmare på hur designprinciper som sätter mobilen i första rummet användes, adaptiva bilder och progressiv förbättring användes för att skapa den, och vi diskuterar fallgroparna som uppstod längs vägen. Mötet bygger på Bruce's talk under CQ Conference i Basel, Schweiz (CQCON, 2013).
 uuid: 20f50539-8299-4080-818c-77201047022b
 discoiquuid: 5d79cfc0-a128-445b-9745-fd3722b550ac
 targetaudience: target-audience advanced
 exl-id: 312c3f59-8126-45c4-8403-625069811609
----
-# Mobile-First Development with CQ Made Easy{#mobile-first-development-with-cq-made-easy}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 0%
 
-Learn the patterns for responsive design in CQ and how to provide a media-rich HTML5 mobile experience that performs on low-bandwidth connections. To demonstrate these patterns, we work through the transformation of a CQ site from desktop only to mobile-first. We dive into how mobile-first design principles were used, adaptive images and progressive enhancement to create it, and we discuss the pitfalls encountered along the way. The session is based on Bruce's talk during the CQ Conference in Basel, Switzerland (CQCON, 2013). 
+---
+
+# Mobil-först-utveckling med CQ gjort enkelt{#mobile-first-development-with-cq-made-easy}
+
+Lär dig mönstren för responsiv design i CQ och hur du får en multimedial mobilupplevelse i HTML5 som fungerar på anslutningar med låg bandbredd. För att demonstrera dessa mönster arbetar vi med att omvandla en CQ-webbplats från enbart dator till mobil först. Vi tittar närmare på hur designprinciper som sätter mobilen i första rummet användes, adaptiva bilder och progressiv förbättring användes för att skapa den, och vi diskuterar fallgroparna som uppstod längs vägen. Mötet bygger på Bruce&#39;s talk under CQ Conference i Basel, Schweiz (CQCON, 2013).
 
 >[!VIDEO](https://video.tv.adobe.com/v/19572/?quality=9)
 
-*Delivered September 18, 2013*
+*Levererat 18 september 2013*
 
-**Presented by:**
+**Presenteras av:**
 
 Bruce Lefebvre, Computer Scientist, Adobe
 
-## Related links {#related-links}
+## Relaterade länkar {#related-links}
 
-[Presenter slides and Resources](http://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)
+[Presentatörsbilder och -resurser](http://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)

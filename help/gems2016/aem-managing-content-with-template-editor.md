@@ -1,20 +1,26 @@
 ---
-title: Managing your content with the template editor of Adobe Experience Manager
-description: With Adobe Experience Manager 6.2 a new template editor has been introduced that provides new, powerful ways to build, structure and configure digital properties. Explore the feature from a super-author perspective to understand how it allows to compose different page templates and control exactly what content authors are allowed to do on the corresponding pages. Finally, dive into the inner mechanics to understand how it works under the hood.
+title: Hantera ditt innehåll med malleditorn i Adobe Experience Manager
+description: Med Adobe Experience Manager 6.2 har en ny mallredigerare introducerats som ger nya, kraftfulla sätt att skapa, strukturera och konfigurera digitala egenskaper. Utforska funktionen ur ett superredigerandeperspektiv och se hur den kan användas för att skapa olika sidmallar och styra exakt vad skribenterna får göra på motsvarande sidor. Till sist, dyka i innermekaniken för att förstå hur den fungerar under huven.
 uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: c4f5077f-9e10-4bcc-8f7a-60b67b282838
----
-# Managing your content with the template editor of Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '223'
+ht-degree: 0%
 
-With Adobe Experience Manager 6.2 a new template editor has been introduced that provides new, powerful ways to build, structure and configure digital properties. Explore the feature from a super-author perspective to understand how it allows to compose different page templates and control exactly what content authors are allowed to do on the corresponding pages. Finally, dive into the inner mechanics to understand how it works under the hood. In this session: - Learn how the template editor can make sites more flexible - Have an overview of how the templating mechanics operate
+---
+
+# Hantera ditt innehåll med malleditorn i Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
+
+Med Adobe Experience Manager 6.2 har en ny mallredigerare introducerats som ger nya, kraftfulla sätt att skapa, strukturera och konfigurera digitala egenskaper. Utforska funktionen ur ett superredigerandeperspektiv och se hur den kan användas för att skapa olika sidmallar och styra exakt vad skribenterna får göra på motsvarande sidor. Till sist, dyka i innermekaniken för att förstå hur den fungerar under huven. I den här sessionen: - Lär dig hur malleditorn kan göra webbplatser mer flexibla - Få en översikt över hur mallfunktionen fungerar
 
 >[!VIDEO](https://video.tv.adobe.com/v/19300/?quality=9)
 
-*Delivered September 14, 2016*
+*Levererat 14 september 2016*
 
-**Presented by:**
+**Presenteras av:**
 
 * Patrick Fauchere, Software Engineer, Adobe
 
@@ -22,11 +28,11 @@ Chat expert,
 
 * Gabriel Walt, Product Manager, Adobe
 
-**Presenter slides**
+**Presentatörsbilder**
 
-[Get File](assets/aem-gems-91416-template-editor.pdf)
+[Hämta fil](assets/aem-gems-91416-template-editor.pdf)
 
-## Related links {#related-links}
+## Relaterade länkar {#related-links}
 
-* [Page Templates](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
-* [Creating Page Templates](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)
+* [Sidmallar](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
+* [Skapa sidmallar](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)

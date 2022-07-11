@@ -1,36 +1,42 @@
 ---
-title: Major Brand Portal Release and new reference implementation for Asset Share
-description: Media portals are critical for organizations to share assets both internally and in many cases externally. In this session we introduce you to the new Asset Share Commons from Adobe Assets.
+title: Större Brand Portal-utgåva och ny referensimplementering för Resursresurs
+description: Medieportaler är avgörande för att företag ska kunna dela resurser både internt och i många fall externt. Under den här sessionen presenterar vi dig för de nya resurskommentarerna från Adobe Assets.
 uuid: 0a5a3c7c-60b2-400f-b555-ca51f01e8184
 discoiquuid: 524f8a2e-dcd4-44b5-ae2f-524dff8f03ab
 targetaudience: target-audience advanced
 exl-id: 01be713d-991e-4d72-b9d4-48af60793c54
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 0%
+
 ---
-# Major Brand Portal Release and new reference implementation for Asset Share{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
 
-Media portals are critical for organizations to share assets both internally and in many cases externally. In this session we will introduce you to the new Asset Share Commons from Adobe Assets. 
+# Större Brand Portal-utgåva och ny referensimplementering för Resursresurs{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
 
-You will learn:  
+Medieportaler är avgörande för att företag ska kunna dela resurser både internt och i många fall externt. Under den här sessionen presenterar vi dig för de nya resurskommentarerna från Adobe Assets.
 
-* What media portal options are available based upon use cases 
-* How to implement these options 
-* Best practices for insuring ease of use 
+Du kommer att lära dig:
+
+* Vilka alternativ för mediaportal som är tillgängliga baserat på användningsfall
+* Implementera dessa alternativ
+* Bästa tillvägagångssätt för att säkerställa användarvänlighet
 
 >[!VIDEO](https://video.tv.adobe.com/v/20730/?quality=9)
 
-*Delivered November 8, 2017*
+*Levererad 8 november 2017*
 
-**Presented by:**
+**Presenteras av:**
 
 Mike Carley, Product Marketing Manager - [!DNL AEM Assets], Adobe
 
-Krishna Selvaraj, Technical Marketing Engineer - AEM, Adobe
+Krishna Selvaraj, tekniker för teknisk marknadsföring - AEM, Adobe
 
 Daniel Gordon, Technical Marketing Engineer - AEM, Adobe
 
-**Presenter slides**
+**Presentatörsbilder**
 
-[Get File](assets/gems+bp-asset+share+nov+8+17+.pdf)
+[Hämta fil](assets/gems+bp-asset+share+nov+8+17+.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

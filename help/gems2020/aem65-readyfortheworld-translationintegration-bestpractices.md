@@ -1,28 +1,34 @@
 ---
-title: AEM 6.5 ready for the world - translation integration & best practices
-description: Learn about current AEM translation capabilities and best practices for managing multilingual web sites. Learn how to structure global websites, use language copies, live copies, and MSM. Achieve easier, faster, and more manageable content translation using advance features.
+title: AEM 6.5 är redo för världen - översättningsintegrering och bästa praxis
+description: Läs mer om de aktuella AEM översättningsfunktionerna och de bästa sätten att hantera flerspråkiga webbplatser. Lär dig strukturera globala webbplatser, använda språkkopior, live-kopior och MSM. Uppnå enklare, snabbare och mer hanterbar innehållsöversättning med avancerade funktioner.
 uuid: 50db5f3d-2bd0-4366-8c26-b11c4aa6a23c
 discoiquuid: 0c24228b-b674-47a7-9892-45bb26684ad1
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 0%
+
 ---
 
-# AEM 6.5 ready for the world - translation integration & best practices{#aem-ready-for-the-world-translation-integration-best-practices}
 
-This session presents current AEM translation capabilities and best practices for managing multilingual web sites. You learn how to structure global websites and use language copies, live copies, and MSM. The session also covers how to achieve easier, faster, and more manageable content translation using advance features.
+# AEM 6.5 är redo för världen - översättningsintegrering och bästa praxis{#aem-ready-for-the-world-translation-integration-best-practices}
 
-**Presented by:**
+Den här sessionen innehåller aktuella AEM översättningsfunktioner och metodtips för hantering av flerspråkiga webbplatser. Lär dig hur du strukturerar globala webbplatser och använder språkkopior, live-kopior och MSM. Sessionen handlar också om hur du med avancerade funktioner kan få en enklare, snabbare och mer hanterbar innehållsöversättning.
+
+**Presenteras av:**
 
 * Ankur Sial, Computer Scientist, Adobe
 * Harpreet Neelu, Program Manager, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/31153?quality=9)
 
-*Delivered 01/22/2020*
+*Levererat 2020-01-22*
 
-**Presenter slides**
+**Presentatörsbilder**
 
-[Get File](assets/gems-2020-translations.pdf)
+[Hämta fil](assets/gems-2020-translations.pdf)
 
-Session Q and A - February 2020 PDF
+Session Q och A - februari 2020 PDF
 
-[Get File](assets/aem-gems-translationqnafeb2020.pdf)
+[Hämta fil](assets/aem-gems-translationqnafeb2020.pdf)

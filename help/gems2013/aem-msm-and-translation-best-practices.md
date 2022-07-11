@@ -1,29 +1,35 @@
 ---
-title: MSM and translation - best practices
-description: This webinar examines the intersection of MSM and translation for multilingual websites. We cover the complexities introduced by translation, recommendations for site structure, and a brief comparison of translation connectors and tools for various use cases.
+title: MSM och översättning - bästa praxis
+description: Det här webbinariet undersöker skärningspunkten mellan MSM och översättning för flerspråkiga webbplatser. Vi tar upp de komplexa problem som översättning innebär, rekommendationer för webbplatsstruktur och en kort jämförelse av översättningskontakter och verktyg för olika användningsområden.
 uuid: e03f11cc-f16e-428b-91b7-dad22b1f2969
 discoiquuid: 4dc97a95-c401-499c-b5f6-8ffc6f464468
 targetaudience: target-audience advanced
 exl-id: 7e691407-b1be-440c-a04b-290dadef113f
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 0%
+
 ---
-# MSM and Translation: Best Practices {#msm-and-translation-best-practices}
 
-This webinar examines the intersection of MSM and translation for multilingual websites. We cover the complexities introduced by translation, recommendations for site structure, and a brief comparison of translation connectors and tools for various use cases. 
+# MSM och översättning: Bästa praxis {#msm-and-translation-best-practices}
 
-**Presented by:**
+Det här webbinariet undersöker skärningspunkten mellan MSM och översättning för flerspråkiga webbplatser. Vi tar upp de komplexa problem som översättning innebär, rekommendationer för webbplatsstruktur och en kort jämförelse av översättningskontakter och verktyg för olika användningsområden.
+
+**Presenteras av:**
 
 Christine Duran, Sr Translation Technology Group Manager, Adobe
 
-**Presenter slides**
+**Presentatörsbilder**
 
-[Get File](assets/20130731-adobe-msm-and-translation-best-practices.pdf)
+[Hämta fil](assets/20130731-adobe-msm-and-translation-best-practices.pdf)
 
-## Related links {#related-links}
+## Relaterade länkar {#related-links}
 
-The original content of this GEM session from 2013 has been replaced. The information was out-of-date.
+Det ursprungliga innehållet i denna GEM-session från 2013 har ersatts. Informationen var inaktuell.
 
-Instead read more about Best Practices in the Adobe Experience Manager documentation:
+Läs mer om metodtips i Adobe Experience Manager-dokumentationen:
 
-* [Multi-site Management Best Practices](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
-* [Translation Best Practices](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Bästa praxis för hantering av flera webbplatser](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
+* [Bästa praxis för översättning](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
+* [Återgå till Översikt](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

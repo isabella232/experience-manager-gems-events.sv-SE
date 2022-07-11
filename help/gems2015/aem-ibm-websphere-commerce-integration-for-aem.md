@@ -1,27 +1,33 @@
 ---
-title: IBM WebSphere Commerce integration for AEM
-description: Get a walk-through about the different integration features with deep-dives into the code. Learn how to customize, extend, and test your integration.
+title: Integrering av IBM WebSphere Commerce för AEM
+description: Få en genomgång av de olika integrationsfunktionerna med djupdykning i koden. Lär dig hur du anpassar, utökar och testar integreringen.
 uuid: 0c7aa66b-3909-4eeb-85d6-87e7faa4db39
 discoiquuid: f9e11075-59f1-46cb-82c7-ba85864f5e33
 targetaudience: target-audience advanced
 exl-id: 39a5929f-f973-4288-b72e-6eece22bdb80
----
-# IBM WebSphere Commerce integration for AEM{#ibm-websphere-commerce-integration-for-aem}
+source-git-commit: b7806491034e1afcef503311de86bb15fda51460
+workflow-type: tm+mt
+source-wordcount: '123'
+ht-degree: 0%
 
-The Commerce Integration Framework (CIF) is an AEM add-on that accelerates any eCommerce integration project by providing documented integration patterns, reference code and components. The IBM WebSphere integration package is a specialized CIF reference implementation for IBM's WebSphere eCommerce platform. In this session Martin Buergi and Markus Haack guides you through the different integration features with deep-dives into the code. You will learn how to customize, extend, and test your integration.
+---
+
+# Integrering av IBM WebSphere Commerce för AEM{#ibm-websphere-commerce-integration-for-aem}
+
+Commerce Integration Framework (CIF) är ett AEM som snabbar upp alla e-handelsintegrationsprojekt genom att tillhandahålla dokumenterade integreringsmönster, referenskod och komponenter. Integrationspaketet IBM WebSphere är en specialiserad CIF-referensimplementering för IBM eCommerce-plattformen WebSphere. Under den här sessionen leder Martin Buergi och Markus Haack dig igenom de olika integreringsfunktionerna med djupdykning i koden. Du får lära dig att anpassa, utöka och testa integreringen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19375/?quality=9)
 
-*Delivered September 9, 2015*
+*9 september 2015*
 
-**Presented by:**
+**Presenteras av:**
 
 * Martin Buergi, Product Manager, Adobe
 * Markus Haack, Senior Developer, Adobe
 
-**Presenter slides**
+**Presentatörsbilder**
 
-[Get File](assets/150909-aem-gems-ibm-websphere-commerce-integration.pdf)
+[Hämta fil](assets/150909-aem-gems-ibm-websphere-commerce-integration.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

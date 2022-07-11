@@ -1,6 +1,6 @@
 ---
-title: Build websites faster with AEM Headless and App Builder
-description: Watch a presentation and demo about how to quickly bootstrap and deploy single-page app (SPA) using Adobe App Builder workflows ant tools.
+title: Bygg webbplatser snabbare med AEM Headless och App Builder
+description: Titta på en presentation och demo om hur du snabbt kan starta och distribuera single-page-appar (SPA) med Adobe App Builder-verktyg.
 version: Cloud Service, 6.5
 feature: App Builder
 topic: Headless
@@ -8,20 +8,26 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
+source-git-commit: 92f46eab76b1a89216039d830b1683d259d3db44
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 0%
+
 ---
 
-# Build websites faster with AEM Headless and App Builder
 
-This AEM GEMs webinar recording includes a presentation and demo on the following:
+# Bygg webbplatser snabbare med AEM Headless och App Builder
 
-Quickly bootstrap and deploy single-page apps (SPA) using Adobe App Builder workflows and tools, without traditional Experience Manager skills, like Java and Sling, being required. With Experience Manager Headless, marketers and developers can have expertise in their own domain. Developers control the overall application framework while marketers determine the content and how it’s displayed.
+Det här AEM GEM:s webbinarium innehåller en presentation och en demo om följande:
+
+Bootstrap och driftsätt enkelt single-page-appar (SPA) med arbetsflöden och verktyg i Adobe App Builder, utan att traditionella Experience Manager-kunskaper som Java och Sling behövs. Med Experience Manager Headless kan marknadsförare och utvecklare ha expertkunskaper inom sin egen domän. Utvecklarna styr det övergripande applikationsramverket medan marknadsförarna bestämmer innehållet och hur det visas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 
-This webinar was conducted on March 23rd, 2022 and presented by Duy Nguyen, Software Development Engineer
+Det här webbinariet genomfördes den 23 mars 2022 och presenterades av Duy Nguyen, Software Development Engineer
 
 >[!MORELIKETHIS]
 >
->* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
->* [Corresponding Contextual Thread](https://adobe.ly/3LkSWdm)
->* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about upcoming webinars.
+>* [Motsvarande Adobe Experience Manager User Group Event-sida](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
+>* [Motsvarande sammanhangsberoende tråd](https://adobe.ly/3LkSWdm)
+>* Registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/) för att få meddelanden om kommande webbinarier.

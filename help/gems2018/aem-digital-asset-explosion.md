@@ -1,33 +1,39 @@
 ---
 title: The Digital Asset Explosion & AEM Assets
-description: Learn about the digital asset explosion and AEM Assets at Adobe.
+description: Läs mer om explosionen av digitala resurser och AEM Assets på Adobe.
 uuid: 236f688c-82c0-46dd-bbdc-e9c8552152c4
 discoiquuid: b3ec974b-8173-4dad-b349-88c4da78ce89
 targetaudience: target-audience advanced
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 0%
+
 ---
 
-# The Digital Asset Explosion & [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 
-At Adobe, we have been observing an explosion in digital assets in 4 key areas:
+# Digital Asset Explosion &amp; [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 
-* The file size of digital assets being produced
-* The number of digital assets being produced
-* The expectations of our users and customers for digital assets
-* The requests for larger and larger [!DNL AEM Assets] deployments
+På Adobe har vi observerat en explosion av digitala resurser på fyra viktiga områden:
 
-In this session, we will learn about the Digital Asset Explosion, understanding the scale of AEM as assets explode, and follow a customer example through the lifecycle of their [!DNL AEM Assets] project. 
+* Filstorleken på digitala resurser som skapas
+* Antalet digitala resurser som produceras
+* Våra användares och kunders förväntningar på digitala resurser
+* Förfrågningarna om större och större [!DNL AEM Assets] distributioner
+
+Under den här sessionen kommer vi att lära oss mer om Digital Asset Explosion, förstå hur AEM resurser exploderar och följa ett kundexempel under deras livscykel [!DNL AEM Assets] projekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21474/?quality=9)
 
-*Delivered January 31, 2018*
+*Levererat den 31 januari 2018*
 
-**Presented by:**
+**Presenteras av:**
 
 Clint Goudie-Nice, Sr. Software Engineer, Adobe
 
-**Presenter slides**
+**Presentatörsbilder**
 
-[Get File](assets/1+30+18+the+digital+asset+explosion+gems.pdf)
+[Hämta fil](assets/1+30+18+the+digital+asset+explosion+gems.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

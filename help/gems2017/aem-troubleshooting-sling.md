@@ -1,39 +1,46 @@
 ---
-title: Troubleshooting Sling Content Distribution
-description: Sling Content Distribution (SCD) can be used in AEM for forward, reverse content distribution and synchronisation. In this session, we will provide details on how to troubleshoot and handle common issues with SCD. 
+title: Felsökning av distribution av innehåll vid delning
+description: 'Sling Content Distribution (SCD) kan användas i AEM för vidarebefordrad, omvänd innehållsdistribution och synkronisering. Under den här sessionen kommer vi att ge information om hur du felsöker och hanterar vanliga problem med SCD. '
 uuid: 823b2bda-411b-49af-9a75-ab5eb9562d57
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 3%
+
 ---
 
-# Troubleshooting Sling Content Distribution{#troubleshooting-sling-content-distribution}
 
-Sling Content Distribution (SCD) can be used in AEM for forward, reverse content distribution and synchronisation. In this session, we will provide details on how to troubleshoot and handle common issues with SCD.
+# Felsökning av distribution av innehåll vid delning{#troubleshooting-sling-content-distribution}
+
+Sling Content Distribution (SCD) kan användas i AEM för vidarebefordrad, omvänd innehållsdistribution och synkronisering. Under den här sessionen kommer vi att ge information om hur du felsöker och hanterar vanliga problem med SCD.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19451/?quality=9)
 
-*Delivered August 23, 2017*
+*Levererad 23 augusti 2017*
 
-**Presented by:**
+**Presenteras av:**
 
 Timothee Maret, Senior Developer, Adobe
 
-**Presenter slides**
+**Presentatörsbilder**
 
-[Get File](assets/aem-gems-scd.pdf)
+[Hämta fil](assets/aem-gems-scd.pdf)
 
-## Resources {#resources}
+## Resurser {#resources}
 
-User Sychronization
+Användarsynkronisering
 
-* [AEM 6.3 Documentation](https://docs.adobe.com/docs/en/aem/6-3/administer/security/security/sync.html)
-* [AEM 6.2 Documentation](https://docs.adobe.com/docs/en/aem/6-2/administer/security/security/sync.html)
-* [AEM 6.1 Documentation](https://docs.adobe.com/docs/en/aem/6-1/administer/security/security/sync.html)
-* [Apache Sling Content Distribution](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [AEM 6.3 Dokumentation](https://docs.adobe.com/docs/en/aem/6-3/administer/security/security/sync.html)
+* [AEM 6.2 Dokumentation](https://docs.adobe.com/docs/en/aem/6-2/administer/security/security/sync.html)
+* [AEM 6.1 Dokumentation](https://docs.adobe.com/docs/en/aem/6-1/administer/security/security/sync.html)
+* [Distribution av Apache Sling-innehåll](https://sling.apache.org/documentation/bundles/content-distribution.html)
+* [Återgå till Översikt](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >
->* [AEM Indexing and JCR Query](aem-indexing-jcr-query.md)
->* [Troubleshooting Sling Content Distribution](aem-troubleshooting-sling.md)
+>* [AEM och JCR-fråga](aem-indexing-jcr-query.md)
+>* [Felsökning av distribution av innehåll vid delning](aem-troubleshooting-sling.md)
+

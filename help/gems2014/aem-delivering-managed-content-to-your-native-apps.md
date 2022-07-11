@@ -1,26 +1,32 @@
 ---
-title: Deliver managed content to your native apps
-description: While you may not be in a position to move completely to the use of web technologies and cross-platform development provided by PhoneGap Enterprise, it is still possible to leverage the power of AEM by adding web content directly into your existing native apps. This session will cover in detail how content created with AEM apps can then be integrated with an existing Android app. Once integrated into the native app the AEM content can be updated without any further native development being required and it can communicate with the rest of the native application.
+title: Leverera hanterat innehåll till era appar
+description: Även om du kanske inte helt kan övergå till användning av webbtekniker och plattformsövergripande utveckling från PhoneGap Enterprise, är det fortfarande möjligt att utnyttja kraften i AEM genom att lägga till webbinnehåll direkt i era befintliga appar. Den här sessionen kommer i detalj att handla om hur innehåll som skapas med AEM appar sedan kan integreras med en befintlig Android-app. När AEM har integrerats i det inbyggda programmet kan det uppdateras utan att någon ytterligare inbyggd utveckling krävs och det kan kommunicera med resten av det inbyggda programmet.
 uuid: debfe153-74e7-4e52-9fec-494e7ca6c780
 discoiquuid: 4e22b290-b352-4371-a734-fdbed3d25838
 targetaudience: target-audience advanced
 exl-id: 8d2a8a78-5ef0-41e6-9f13-6f91db7c178c
----
-# Deliver managed content to your native apps{#delivering-managed-content-to-your-native-apps}
+source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
+workflow-type: tm+mt
+source-wordcount: '217'
+ht-degree: 0%
 
-While you may not be in a position to move completely to the use of web technologies and cross-platform development provided by PhoneGap Enterprise, it is still possible to leverage the power of AEM by adding web content directly into your existing native apps. This session will cover in detail how content created with AEM apps can then be integrated with an existing Android app. Once integrated into the native app the AEM content can be updated without any further native development being required and it can communicate with the rest of the native application.
+---
+
+# Leverera hanterat innehåll till era appar{#delivering-managed-content-to-your-native-apps}
+
+Även om du kanske inte helt kan övergå till användning av webbtekniker och plattformsövergripande utveckling från PhoneGap Enterprise, är det fortfarande möjligt att utnyttja kraften i AEM genom att lägga till webbinnehåll direkt i era befintliga appar. Den här sessionen kommer i detalj att handla om hur innehåll som skapas med AEM appar sedan kan integreras med en befintlig Android-app. När AEM har integrerats i det inbyggda programmet kan det uppdateras utan att någon ytterligare inbyggd utveckling krävs och det kan kommunicera med resten av det inbyggda programmet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19467/?quality=9)
 
-*Delivered September 10, 2014*
+*Levererat 10 september 2014*
 
-**Presented by:**
+**Presenteras av:**
 
 Anthony Rumsey, Computer Scientist, Adobe
 
-**Presenter slides**
+**Presentatörsbilder**
 
-[Get File](assets/9-10-2014-delivering-managed-content-to-your-native-apps.pdf)
+[Hämta fil](assets/9-10-2014-delivering-managed-content-to-your-native-apps.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -1,30 +1,36 @@
 ---
 title: AEM 6.3 Ready for the World - Translation Integration & Best Practices
-description: In this session, we will present AEM 6.3 capabilities and best practices for managing multilingual web sites. You will learn how to structure global websites in AEM, how to use language copies, live copies and MSM, and how to integrate translation service providers for successful completion of translation projects. 
+description: 'Under den här sessionen kommer vi att presentera AEM 6.3-funktioner och bästa praxis för hantering av flerspråkiga webbplatser. Du får lära dig att strukturera globala webbplatser i AEM, hur du använder språkkopior, live-kopior och MSM samt hur du integrerar översättningstjänstleverantörer för att slutföra översättningsprojekt. '
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '174'
+ht-degree: 0%
+
 ---
 
-# AEM 6.3 Ready for the World - Translation Integration & Best Practices{#aem-ready-for-the-world-translation-integration-best-practices}
 
-In this session, we will present AEM 6.3 capabilities and best practices for managing multilingual web sites. You will learn how to structure global websites in AEM, how to use language copies, live copies and MSM, and how to integrate translation service providers for successful completion of translation projects. 
+# AEM 6.3 Ready for the World - Translation Integration &amp; Best Practices{#aem-ready-for-the-world-translation-integration-best-practices}
+
+Under den här sessionen kommer vi att presentera AEM 6.3-funktioner och bästa praxis för hantering av flerspråkiga webbplatser. Du får lära dig att strukturera globala webbplatser i AEM, hur du använder språkkopior, live-kopior och MSM samt hur du integrerar översättningstjänstleverantörer för att slutföra översättningsprojekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21532/?quality=9)
 
-*Delivered October 25, 2017*
+*Levererad 25 oktober 2017*
 
-**Presented by:**
+**Presenteras av:**
 
-Leandro Reis, Globalization Architect, Adobe Core Services   
+Leandro Reis, Globalization Architect, Adobe Core Services\
 Mathias Siegel, Sr Product Manager, [!DNL AEM Sites], Adobe
 
-**Presenter slides**
+**Presentatörsbilder**
 
-[Get File](assets/immerse-2017-translationpresentation-rev1.pdf)
+[Hämta fil](assets/immerse-2017-translationpresentation-rev1.pdf)
 
-## Related links {#related-links}
+## Relaterade länkar {#related-links}
 
-* [AEM Sites Translation Documents](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html  )
-* [Managing Multilingual Assets](https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
-* [Translation Best Practices Documentation](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation/tc-bp.html)
+* [AEM Sites Translation Documents](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html)
+* [Hantera flerspråkiga resurser](https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
+* [Dokumentation om översättningsmetoder](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation/tc-bp.html)
