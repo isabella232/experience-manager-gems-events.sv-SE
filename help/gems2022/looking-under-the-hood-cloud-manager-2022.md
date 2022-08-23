@@ -1,13 +1,13 @@
 ---
 title: Cloud Manager 2022
 description: Det här AEM GEM-webbinariet innehåller en presentation och en demonstration om följande:Utforska de nya funktionerna som släpptes förra året, en uppdatering bakom kulisserna ... (Beskrivningarna ska vara mellan 60 och 160 tecken)
-version: Experience Manager
+version: Cloud Service
 feature: Cloud Manager
 topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
+source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Sessionsbeskrivning: Utforska de nya funktionerna som lanserades under det senaste året, en uppdatering om utvecklingen bakom kulisserna och en inblick i resten av 2022. Information om hur Cloud Manager fungerar under huven och hur en kund kan utnyttja det på bästa sätt.  
 
-Innehållet gäller både Adobe Experience Manager as a Cloud Service och Experience Manager Managed Services, med fokus på Cloud Service. Det passar både tekniska och icke-tekniska deltagare. Tidigare exponering för Cloud Manager kan vara till hjälp för sammanhanget, men det är inte nödvändigt.
+Innehållet gäller både Adobe Experience Manager as a Cloud Service och Experience Manager Managed Services, med fokus på Cloud Service. Det är lämpligt både för tekniska och icke-tekniska deltagare. Tidigare exponering för Cloud Manager kan vara till hjälp för kontext, men det är inte nödvändigt.
 
 **Inspelning av webbinarium**
 
