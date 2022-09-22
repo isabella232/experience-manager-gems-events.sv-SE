@@ -1,14 +1,14 @@
 ---
 title: Kundexempel och implementering av AEM Headless in Use
 description: Sessionsmeddelande
-version: 6.5
+version: Experience Manager
 feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
 source-git-commit: 3580be032a1c5d94bab90c3a76af9dfc81587993
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
