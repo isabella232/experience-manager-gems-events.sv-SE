@@ -6,9 +6,9 @@ feature: Release Information
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+source-git-commit: 9ad6ce49d6728e36168482133f3017303c90c72f
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
@@ -19,5 +19,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* Information om kommande sessioner kommer att följa efter mitten av augusti 2022.
+>* Information om kommande sessioner kommer att följa efter i början av november 2022.
 >* Registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/) för att få meddelanden om kommande webbinarier automatiskt.
