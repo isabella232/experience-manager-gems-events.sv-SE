@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM-sessioner
-source-git-commit: b537a225b4bfe26172cf0e4798a79715718c6f83
+source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 --->
 Kommande AEM GEMs webbinarium: *AEM Best Practices Analyzer för lokala miljöer och AMS-miljöer*.
 Timing: 18 januari kl. 17.00 CET / 8.00 PST / 9.30 IST Resource: [AEM Best Practices Analyzer](/help/gems2022/aem-best-practices-analyzer.md)
-Registrering: [Registrering av webbinarium](https://aem-augs.adobe.com/)
+Registrering: [Registrering av webbinarium](https://aem-augs.adobe.com/e/mz8eae/)
 
 >[!NOTE]
 >
