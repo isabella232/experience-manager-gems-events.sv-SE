@@ -3,10 +3,10 @@ user-guide-title: Adobe Experience Manager GEMS-event
 user-guide-description: Läs om AEM Gems, en serie tekniska djupdykningar från Adobe Experience Manager experter.
 breadcrumb-title: AEM GEM-event
 feature-set: Experience Manager
-source-git-commit: df64475d20fd646580794c1fdfbfa0ab27454434
+source-git-commit: 2e7c56f001b7318c7d2c64dcbec51bebfcfe1225
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '625'
+ht-degree: 1%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 0%
 
 + [Översikt](overview.md)
 + 2022 {#gems2022}
+   + [AEM Best Practices Analyzer för lokala miljöer och AMS-miljöer](gems2022/aem-best-practices-analyzer.md)
    + [Kommande webbinarier](/help/announcements.md)
    + [Kundexempel och implementering av AEM Headless in Use](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [En titt under huven - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
