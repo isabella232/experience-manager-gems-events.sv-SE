@@ -1,8 +1,8 @@
 ---
-source-git-commit: 34d3ebb312069a5e036bdedfced8375a6b6d7d5b
+source-git-commit: 8680d300472c549115ba3d4bf12500f2700ca1ac
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 21%
+source-wordcount: '294'
+ht-degree: 22%
 
 ---
 # Bidrar
@@ -18,7 +18,7 @@ Detta projekt följer Adobes [uppförandekod](code-of-conduct.md). Genom att del
 
 ## Dokumentation för Contributor-handboken
 
-Se [Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Se [Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Har du en fråga?
 
