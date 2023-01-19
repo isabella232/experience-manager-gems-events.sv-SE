@@ -7,20 +7,16 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 57071c7c13f7a4314961bb246bbe9076d110e58c
+source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
 # AEM Best Practices Analyzer för lokala miljöer och AMS-miljöer
 
-## Timing: 18 januari 2023
-
-## Registrering
-
-Anmäl dig via [Adobe AEM User Group](https://aem-augs.adobe.com/).
+## Det här webbinariet levererades 18 januari 2023 - se inspelningen nedan
 
 ## Beskrivning
 
@@ -34,3 +30,12 @@ Observera att AEM Best Practices Analyzer inte kan användas för AEM as a Cloud
 * Kiran Murugula, Senior Cloud Architect, Adobe
 * Vaibhas Varshney, datavetare, Adobe
 * Himani Chauhan, datavetenskap, Adobe
+
+## Inspelning av webbinarium - 2023-01-18
+
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
+
+>[!NOTE]
+>
+>* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](https://bit.ly/3Z6AyM1)
+>* Om du vill få automatiska meddelanden om webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
