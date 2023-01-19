@@ -7,7 +7,7 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
+source-git-commit: 9d0b0f54f81e5dcc2f169b1e3420a1bca3e8d0a5
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -25,9 +25,9 @@ Observera att AEM Best Practices Analyzer inte kan användas för AEM as a Cloud
 
 ### Presentatörer
 
-* Aditi Dutt Chaudhari, Sr. Product Manager, Adobe
+* Aditi Dutt Chaudihuri, Sr. Product Manager, Adobe
 * Saurabh Saxena, Engineering Manager, Adobe
-* Kiran Murugula, Senior Cloud Architect, Adobe
+* Kiran Murugulla, Senior Cloud Architect, Adobe
 * Vaibhas Varshney, datavetare, Adobe
 * Himani Chauhan, datavetenskap, Adobe
 
