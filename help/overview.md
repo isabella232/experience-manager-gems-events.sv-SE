@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM-sessioner
-source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
+source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -43,8 +43,8 @@ ht-degree: 0%
 </table>
 
 --->
-*Snabbare utveckling av Adobe Experience Manager-Cloud Service med miljöer för snabb utveckling*
-Datum: 22 februari kl. 17.00 CET / 8.00 PST / 9.30 IST Resource: [AEM Rapid Development Environment webbinarium](/help/gems2023/Rapid-Development-Environments.md)
+Vårt senaste AEM GEM-webbinarium på *Snabbare utveckling av Adobe Experience Manager-Cloud Service med miljöer för snabb utveckling* har genomförts den 22 februari 2023.
+Inspelningen finns här: [AEM Rapid Development Environment webbinarium](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
@@ -73,10 +73,4 @@ Våra [Experience Manager Community](https://experienceleaguecommunities.adobe.c
 * Snabbsvar: Omfattande pool av fallsvar från verkliga användare som stöder en framgångsrik aktiv användning av Adobe-lösningar
 * Idéer och feedback: Ta del av kundernas produktidéer och ge värdefull feedback till produktteamen
 
-## Inspelning av tidigare webbinarium
 
-Vårt senaste webbinarium handlade om **AEM Best Practices Analyzer för lokala miljöer och AMS-miljöer** och utfördes den 18 januari 2023.
-
->[!VIDEO](https://video.tv.adobe.com/v/3413364/)
-
-Om du vill ha mer information om sessionerna, inklusive en beskrivning och information om presentatören går du till [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md).

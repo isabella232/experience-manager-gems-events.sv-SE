@@ -10,9 +10,9 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: 66e2150987319e08f22ca002015da24b18f5e452
+source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,7 @@ ht-degree: 0%
 
 # Snabbare AEM as a Cloud Service utveckling med snabba utvecklingsmiljöer
 
-## Det här webbinariet kommer att skickas den 22 februari 2023 - anmäl dig via eventsidan
-
-Registrera via [händelsesida](http://bit.ly/3DsMcYw) på Adobe AEM User Group - Learning Chapter.
+Detta webbinarium ägde rum den 22 februari 2023. Se inspelningen nedan.
 
 ## Sessionsbeskrivning
 
@@ -34,6 +32,10 @@ Tack vare de lokala redigeringssystemen kan utvecklare snabbt driftsätta och gr
 * Natalia Angulo Herrera, Software Development Engineer
 * Karl Pauls, Senior Computer Scientist
 * David Bosschaert, Senior Software Engineer
+
+## Inspelning av webbinarium - 2023-01-18
+
+>[!VIDEO](https://video.tv.adobe.com/v/3415876)
 
 >[!NOTE]
 >
