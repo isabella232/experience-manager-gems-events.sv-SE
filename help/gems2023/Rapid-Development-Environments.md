@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
+source-git-commit: c95df8aa847b7926e7cf464431637c1bb5bb12a6
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Tack vare de lokala redigeringssystemen kan utvecklare snabbt driftsätta och gr
 * Karl Pauls, Senior Computer Scientist
 * David Bosschaert, Senior Software Engineer
 
-## Inspelning av webbinarium - 2023-01-18
+## Inspelning av webbinarium - 2023-02-22
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415876)
 
