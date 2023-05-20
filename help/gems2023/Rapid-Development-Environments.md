@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: c95df8aa847b7926e7cf464431637c1bb5bb12a6
+exl-id: 262360f8-95af-4fe1-90c5-5490cea00c6c
+source-git-commit: b50c3aff17162699522ed353659ad3ea6f57faf6
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # Snabbare AEM as a Cloud Service utveckling med snabba utvecklingsmiljöer
 
@@ -41,3 +41,4 @@ Tack vare de lokala redigeringssystemen kan utvecklare snabbt driftsätta och gr
 >
 >* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](http://bit.ly/3x1Cl8x)
 >* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
+

@@ -1,16 +1,16 @@
 ---
 title: AEM 6.3 Ready for the World - Translation Integration & Best Practices
-description: 'Under den här sessionen kommer vi att presentera AEM 6.3-funktioner och bästa praxis för hantering av flerspråkiga webbplatser. Du får lära dig att strukturera globala webbplatser i AEM, hur du använder språkkopior, live-kopior och MSM samt hur du integrerar översättningstjänstleverantörer för att slutföra översättningsprojekt. '
+description: Under den här sessionen kommer vi att presentera AEM 6.3-funktioner och bästa praxis för hantering av flerspråkiga webbplatser. Du får lära dig att strukturera globala webbplatser i AEM, hur du använder språkkopior, live-kopior och MSM samt hur du integrerar översättningstjänstleverantörer för att slutföra översättningsprojekt.
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 1a4aaf0e-45f7-4b22-ac32-aee1be111553
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
-
 
 # AEM 6.3 Ready for the World - Translation Integration &amp; Best Practices{#aem-ready-for-the-world-translation-integration-best-practices}
 

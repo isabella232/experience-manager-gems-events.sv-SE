@@ -1,16 +1,16 @@
 ---
 title: AEM SPA Editor
-description: 'Eftersom Single-Page Application (SPA) gör den övergripande besökarupplevelsen mer interaktiv blir de allt populärare, även för innehållscentrerade upplevelser. Läs mer om SPA Editor i den här introduktionen. '
+description: Eftersom Single-Page Application (SPA) gör den övergripande besökarupplevelsen mer interaktiv blir de allt populärare, även för innehållscentrerade upplevelser. Läs mer om SPA Editor i den här introduktionen.
 uuid: d61f7398-c3e8-475a-a3c3-f71a8106c8f4
 discoiquuid: 8c6673c0-635e-453d-abf0-5d0db313329a
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 300afc36-5eb8-40d1-b847-875df78db08f
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # AEM SPA Editor{#aem-spa-editor}
 

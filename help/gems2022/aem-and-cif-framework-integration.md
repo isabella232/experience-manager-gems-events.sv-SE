@@ -7,17 +7,17 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+exl-id: 49bed9eb-8995-4821-b919-b7ca0e0c44d1
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-
 # Integrera AEM- och CIF-ramverket för att skapa en omfattande och engagerande e-handelsupplevelse
 
-Det här AEM GEM-webbinariet innehåller en presentation och demo som hjälper dig att förstå hur Adobe CIF-ramverket kan användas för att skapa en enhetlig och engagerande e-handelsupplevelse. Experience Manager och Adobe Commerce integreras smidigt med Commerce Integration Framework (CIF). CIF gör det möjligt för AEM att komma åt och kommunicera direkt med handelsinstansen med Adobe Commerce GraphQL API:er (se den övergripande dagordningen nedan).
+Det här AEM GEM-webbinariet innehåller en presentation och demo som hjälper dig att förstå hur Adobe CIF-ramverket kan användas för att skapa en enhetlig och engagerande e-handelsupplevelse. Experience Manager och Adobe Commerce integreras smidigt med Commerce Integration Framework (CIF). CIF gör det möjligt för AEM att komma åt och kommunicera direkt med handelsinstansen med hjälp av Adobe Commerce GraphQL API:er (se den övergripande dagordningen nedan).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 

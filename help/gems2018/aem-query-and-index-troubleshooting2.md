@@ -1,16 +1,16 @@
 ---
 title: Felsökning av AEM och index
-description: 'Detta är en fortsättning på förra årets session AEM Indexing and JCR Query (länk nedan). Det kommer att omfatta samma ämnen, men med helt nytt innehåll och överlappar inte alls den äldre presentationen. Nya funktioner i AEM 6.4 ingår också. '
+description: Detta är en fortsättning på förra årets session AEM Indexing and JCR Query (länk nedan). Det kommer att omfatta samma ämnen, men med helt nytt innehåll och överlappar inte alls den äldre presentationen. Nya funktioner i AEM 6.4 ingår också.
 uuid: da172124-bef7-45b8-91f4-86fc37d03f5d
 discoiquuid: 7d95cb2b-9fc4-4d0e-8a70-a751f4487f77
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 811329e02cc9b2b961599d5751d4dcc6886eb3d7
+exl-id: 6bd4194a-0e72-497e-8a80-20c60f1c74b9
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # Felsökning av AEM och index{#aem-query-and-index-troubleshooting}
 

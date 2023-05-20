@@ -4,13 +4,13 @@ description: '"Tough Day" var ett testverktyg som simulerade dagliga belastninga
 uuid: 6bf40482-6152-421b-bdfe-9a50176b98b7
 discoiquuid: d60dbb18-7938-4446-9928-7f5f5d1f83a1
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 7fff6003-ff8f-46df-9184-492ec06ff34e
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
-
 
 # Toughday2 - Ett nytt och förbättrat verktyg för stresstestning och riktmärkning{#toughday-a-new-and-improved-stress-testing-and-benchmarking-tool}
 

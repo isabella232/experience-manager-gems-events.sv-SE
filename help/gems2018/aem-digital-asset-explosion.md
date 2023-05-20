@@ -4,13 +4,13 @@ description: Läs mer om explosionen av digitala resurser och AEM Assets på Ado
 uuid: 236f688c-82c0-46dd-bbdc-e9c8552152c4
 discoiquuid: b3ec974b-8173-4dad-b349-88c4da78ce89
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: a0ef0e49-7ac1-4ea7-a7ae-f1b6a4e14913
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # Digital Asset Explosion &amp; [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 

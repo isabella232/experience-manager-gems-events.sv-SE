@@ -4,13 +4,13 @@ description: Lär dig de bästa sätten kring de omfattande konfigurationerna oc
 uuid: c55837d1-5703-44a9-b901-ab2e68d75dcb
 discoiquuid: d4220ddf-360a-4068-9558-b42f29038cc7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: 55f9bb36-f1ba-4dfd-8c2d-54e71ad1e9d0
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # AEM RTF-redigerare (Rich Text Editor) Djupdykning{#aem-rich-text-editor-rte-deep-dive}
 

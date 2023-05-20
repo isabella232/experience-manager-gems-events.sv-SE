@@ -1,6 +1,6 @@
 ---
 title: OAuth-serverfunktionalitet i AEM - Utveckla federationen och frigör dina REST API:er!
-description: 'Få en introduktion till OAuth 2-ramverket och serverfunktionen Granite OAuth. Adobe Experience Manager (AEM) implementeras för att köras i en OSGi-miljö och baseras på REST-principer. '
+description: Få en introduktion till OAuth 2-ramverket och serverfunktionen Granite OAuth. Adobe Experience Manager (AEM) implementeras för att köras i en OSGi-miljö och baseras på REST-principer.
 uuid: 5fa01808-033f-456d-a024-c28f60e1e4b7
 discoiquuid: b53df422-3625-40f4-b7fe-9945f2ec71f6
 targetaudience: target-audience advanced

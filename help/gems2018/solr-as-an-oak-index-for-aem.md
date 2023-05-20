@@ -1,17 +1,17 @@
 ---
 title: Solera som ett ekindexvärde för AEM
-description: 'AEM textsökningsfunktioner hanteras som standard av Oak Lucene-index. AEM kan dock avlasta indexering och sökning till Solr-servrar/kluster via Oak Solr-index. I den här Gem-sessionen fördjupar vi oss i några praktiska verkliga scenarier där Solr är ett bra AEM när det gäller prestanda och indexering/sökfunktioner. '
+description: AEM textsökningsfunktioner hanteras som standard av Oak Lucene-index. AEM kan dock avlasta indexering och sökning till Solr-servrar/kluster via Oak Solr-index. I den här Gem-sessionen fördjupar vi oss i några praktiska verkliga scenarier där Solr är ett bra AEM när det gäller prestanda och indexering/sökfunktioner.
 uuid: 97e4ee67-f218-4ff9-9d9a-452963ba6deb
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 59a2da8f-a3c3-44e5-8775-59cac1b7bb8e
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
-
 
 # Solera som ett ekindexvärde för AEM{#solr-as-an-oak-index-for-aem}
 

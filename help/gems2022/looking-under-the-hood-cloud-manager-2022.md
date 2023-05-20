@@ -7,13 +7,13 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+exl-id: 5f3e2e14-57ab-4bf5-a8c7-9bf431836ab2
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
-
 
 # En titt under huven - Cloud Manager 2022
 

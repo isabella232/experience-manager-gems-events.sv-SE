@@ -1,17 +1,17 @@
 ---
 title: Felsökning av distribution av innehåll vid delning
-description: 'Sling Content Distribution (SCD) kan användas i AEM för vidarebefordrad, omvänd innehållsdistribution och synkronisering. Under den här sessionen kommer vi att ge information om hur du felsöker och hanterar vanliga problem med SCD. '
+description: Sling Content Distribution (SCD) kan användas i AEM för vidarebefordrad, omvänd innehållsdistribution och synkronisering. Under den här sessionen kommer vi att ge information om hur du felsöker och hanterar vanliga problem med SCD.
 uuid: 823b2bda-411b-49af-9a75-ab5eb9562d57
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: 930b3d95-0745-4396-88c1-06451341f08c
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 3%
 
 ---
-
 
 # Felsökning av distribution av innehåll vid delning{#troubleshooting-sling-content-distribution}
 

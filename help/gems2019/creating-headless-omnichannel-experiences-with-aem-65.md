@@ -4,13 +4,13 @@ description: Ni måste skapa nästa nivå av flytande upplevelser för att håll
 uuid: 126e5518-b8c0-41e7-9b99-78d9d80b18b0
 discoiquuid: 77929dd9-2a0b-45e2-bffb-7a6e6ac1d9bd
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: e3fcc11f-e68c-459a-9452-3ca1836a1ffb
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
 
 ---
-
 
 # Creating Headless Omnichannel Experiences with AEM 6.5{#creating-headless-omnichannel-experiences-with-aem}
 
