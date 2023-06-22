@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
-source-git-commit: 1f975085f0d25c98fad62e7cc5635216b26ae1d2
+source-git-commit: 1143058f0cb213a765b8cbdab1779fe79b7a4335
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Överordnad the Art of Experience Manager Certification: Gör dig redo, kom igång, certifiera dig!
 
-Detta webbinarium kommer att genomföras den 28 juni 2023 (8:00 PST). Registrera dig här [länk till händelsesida](https://adobe.ly/3Ni6XeL).
+Det här webbinariet kommer att genomföras på **28 juni**, 2023 (8.00 PST). Registrera dig här [länk till händelsesida](https://adobe.ly/3Ni6XeL).
 
 ## Sessionsbeskrivning
 
