@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM-sessioner
-source-git-commit: 5d0685d5dba95f454b2af58841501812dc5be8f0
+source-git-commit: e499198cba2a36b4abd389932254b1ff1285caf6
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 <img alt="Digitala upplevelser" src="./assets/ADX_Gems.png"/>
 
-## Föregående AEM GEMs event!
+## Kommande AEM GEMs event!
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -43,10 +43,10 @@ ht-degree: 0%
 </table>
 
 --->
-Vårt senaste AEM GEM-webbinarium på **Snabbare utveckling av Adobe Experience Manager-Cloud Service med miljöer för snabb utveckling** har utförts den *22 februari 2023*.
-The **inspelning** finns här: [AEM Rapid Development Environment webbinarium](/help/gems2023/Rapid-Development-Environments.md)
+Kommande **28 juni kl. 8.00 PST** har vi ett webbinarium om AEM (teknisk): **Överordnad the Art of Experience Manager Certification: Gör dig redo, kom igång, certifiera dig!**
 
 >[!NOTE]
+> Du måste registrera dig för det kommande evenemanget - registrera dig på [Händelsesida](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-master-the-art-of-experience-manager-certification-get-ready-get-set-get-certified/).
 >
 > Registrera dig för att få meddelanden om kommande AEM GEM-webbinarier på [AdobeAEM User Group](https://aem-augs.adobe.com/).
 
